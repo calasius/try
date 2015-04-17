@@ -12,9 +12,9 @@
 	<url>http://lambdista.github.io/try/</url>
 
 	<scm>
-		<connection>scm:git@gitlab.despegar.it:cars/cars-sm.git</connection>
-		<developerConnection>scm:git:git@gitlab.despegar.it:cars/cars-sm.git</developerConnection>
-		<url>scm:git@gitlab.despegar.it:cars/cars-sm.git</url>
+		<connection>scm:git@gitlab.despegar.it:cars/try.git</connection>
+		<developerConnection>scm:git:git@gitlab.despegar.it:cars/try.git</developerConnection>
+		<url>scm:git@gitlab.despegar.it:cars/try.git</url>
 	</scm>
 
 	<licenses>
